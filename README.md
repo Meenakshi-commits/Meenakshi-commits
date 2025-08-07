@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Learning many technologies
 - 🌱 I’m currently learning ... Oracle Apex
 - 💞️ I’m looking to collaborate on ... documents and servvices for oracle apex
-- 📫 How to reach me ... meenakshi.v36@gmail.com
+- 📫 How to reach me ... meenacs1@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
